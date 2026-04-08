@@ -1,0 +1,17 @@
+export const resourcesData = [
+  { id: 1, name: "Computer Lab A", type: "Lab", capacity: 30, status: "AVAILABLE" },
+  { id: 2, name: "Computer Lab B", type: "Lab", capacity: 25, status: "OCCUPIED" },
+  { id: 3, name: "Electronics Lab", type: "Lab", capacity: 20, status: "AVAILABLE" },
+  { id: 4, name: "Mechanical Lab", type: "Lab", capacity: 15, status: "MAINTENANCE" },
+  { id: 5, name: "Library Main Hall", type: "Library", capacity: 100, status: "AVAILABLE" },
+  { id: 6, name: "Seminar Room 1", type: "Classroom", capacity: 50, status: "OCCUPIED" },
+  { id: 7, name: "Seminar Room 2", type: "Classroom", capacity: 50, status: "AVAILABLE" },
+  { id: 8, name: "Auditorium", type: "Hall", capacity: 500, status: "AVAILABLE" },
+  { id: 9, name: "Cafeteria", type: "Facility", capacity: 150, status: "OCCUPIED" },
+  { id: 10, name: "Sports Complex", type: "Facility", capacity: 200, status: "AVAILABLE" },
+  { id: 11, name: "Projector 1", type: "Equipment", capacity: 1, status: "AVAILABLE" },
+  { id: 12, name: "Projector 2", type: "Equipment", capacity: 1, status: "OCCUPIED" },
+  { id: 13, name: "Whiteboard A", type: "Equipment", capacity: 1, status: "AVAILABLE" },
+  { id: 14, name: "Interactive Display", type: "Equipment", capacity: 1, status: "MAINTENANCE" },
+  { id: 15, name: "Printer", type: "Equipment", capacity: 1, status: "AVAILABLE" },
+];
