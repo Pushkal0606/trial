@@ -1,0 +1,1 @@
+-- Empty data file to satisfy spring.sql.init.mode=always
